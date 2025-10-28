@@ -30,7 +30,7 @@ npm run dev
 ```
 # 🇬🇧
 
-#  To Do List
+#  Film database
 
 > A React application that takes API from https://www.themoviedb.org (you need your own API key). You can search the movies and add them to yours favorites.
 
